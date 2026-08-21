@@ -13,7 +13,7 @@ while(i<=n){
  
     while(j<=i){ 
 
-        cout<< i-j+1; // Print the reverse column value with a space
+        cout<< (i-j+1)<<" "; // Print the reverse column value with a space
          
         j = j+1; 
     }
